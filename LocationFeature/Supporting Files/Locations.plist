@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>locations</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>0</string>
+			<key>title</key>
+			<string>Eiffel Tower</string>
+			<key>imageName</key>
+			<string>EiffelTower</string>
+			<key>latitude</key>
+			<real>48.8584</real>
+			<key>longitude</key>
+			<real>2.2945</real>
+			<key>landmark</key>
+			<string>EiffelTower</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>title</key>
+			<string>Washington Monument</string>
+			<key>imageName</key>
+			<string>WashingtonMonument</string>
+			<key>latitude</key>
+			<real>38.8895</real>
+			<key>longitude</key>
+			<real>-77.03530000000001</real>
+			<key>landmark</key>
+			<string>WashingtonMonument</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>3</string>
+			<key>title</key>
+			<string>Stone Henge</string>
+			<key>imageName</key>
+			<string>StoneHenge</string>
+			<key>latitude</key>
+			<real>51.1789</real>
+			<key>longitude</key>
+			<real>-1.8262</real>
+			<key>landmark</key>
+			<string>StoneHenge</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>4</string>
+			<key>title</key>
+			<string>Mount Rushmore</string>
+			<key>imageName</key>
+			<string>MountRushmore</string>
+			<key>latitude</key>
+			<real>43.8791</real>
+			<key>longitude</key>
+			<real>-103.4591</real>
+			<key>landmark</key>
+			<string>MountRushmore</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>5</string>
+			<key>title</key>
+			<string>Big Ben</string>
+			<key>imageName</key>
+			<string>BigBen</string>
+			<key>latitude</key>
+			<real>51.5007</real>
+			<key>longitude</key>
+			<real>-0.1246</real>
+			<key>landmark</key>
+			<string>BigBen</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>6</string>
+			<key>title</key>
+			<string>Great Wall of China</string>
+			<key>imageName</key>
+			<string>GreatWall</string>
+			<key>latitude</key>
+			<real>40.4319</real>
+			<key>longitude</key>
+			<real>116.5704</real>
+			<key>landmark</key>
+			<string>GreatWall</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>7</string>
+			<key>title</key>
+			<string>Giza Pyramids</string>
+			<key>imageName</key>
+			<string>Giza</string>
+			<key>latitude</key>
+			<real>29.9792</real>
+			<key>longitude</key>
+			<real>31.1342</real>
+			<key>landmark</key>
+			<string>Giza</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>8</string>
+			<key>title</key>
+			<string>Statue Of Liberty</string>
+			<key>imageName</key>
+			<string>StatueOfLiberty</string>
+			<key>latitude</key>
+			<real>40.6892</real>
+			<key>longitude</key>
+			<real>-74.0445</real>
+			<key>landmark</key>
+			<string>StatueOfLiberty</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>9</string>
+			<key>title</key>
+			<string>Notre Dame</string>
+			<key>imageName</key>
+			<string>NotreDame</string>
+			<key>latitude</key>
+			<real>48.853</real>
+			<key>longitude</key>
+			<real>2.3499</real>
+			<key>landmark</key>
+			<string>NotreDame</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>10</string>
+			<key>title</key>
+			<string>Sistine Chapel</string>
+			<key>imageName</key>
+			<string>SistineChapel</string>
+			<key>latitude</key>
+			<real>41.9029</real>
+			<key>longitude</key>
+			<real>12.4545</real>
+			<key>landmark</key>
+			<string>SistineChapel</string>
+		</dict>
+	</array>
+</dict>
+</plist>

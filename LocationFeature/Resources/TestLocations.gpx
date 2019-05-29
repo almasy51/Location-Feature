@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+<!--  <wpt lat="48.8584" lon="2.2945">-->
+<!--    <name>Eiffel Tower</name>-->
+<!--  </wpt>-->
+  <wpt lat="38.8895" lon="-77.0353">
+    <name>Washington Monument</name>
+  </wpt>
+<!--  <wpt lat="51.1789" lon="-1.8262">-->
+<!--      <name>Stone Henge</name>-->
+<!--  </wpt>-->
+<!--  <wpt lat="43.8791" lon="-103.4591">-->
+<!--      <name>Mount Rushmore</name>-->
+<!--  </wpt>-->
+<!--  <wpt lat="51.5007" lon="-0.1246">-->
+<!--      <name>Big Ben</name>-->
+<!--  </wpt>-->
+<!--  <wpt lat="40.4319" lon="116.5704">-->
+<!--      <name>Great Wall of China</name>-->
+<!--  </wpt>-->
+<!--  <wpt lat="29.9792" lon="31.1342">-->
+<!--      <name>Giza Pyramids</name>-->
+<!--  </wpt>-->
+  <wpt lat="40.6892" lon="-74.0445">
+      <name>Statue Of Liberty</name>
+  </wpt>
+<!--  <wpt lat="48.853" lon="-2.3499">-->
+<!--      <name>Notre Dame</name>-->
+<!--  </wpt>-->
+<!--  <wpt lat="41.9029" lon="-12.4545">-->
+<!--      <name>Sistine Chapel</name>-->
+<!--  </wpt>-->
+</gpx>
